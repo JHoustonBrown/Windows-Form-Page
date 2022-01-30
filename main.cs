@@ -3,7 +3,6 @@ using System;
 class Program {
   public static void Main (string[] args) {
     Console.WriteLine ("Enter your weight in pounds: ");
-
 // This will have the user input
     string userWeight = Console.ReadLine();
     int intUserWeight = Convert.ToInt32(userWeight);
@@ -14,9 +13,5 @@ class Program {
 // This will have the users weight in Newtons
     Console.WriteLine ("Your weight in Newtons is ");
     Console.WriteLine (intUserWeight * 4.4482);
-
-
-
-
   }
 }
