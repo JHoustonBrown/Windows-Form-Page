@@ -1,0 +1,5 @@
+/home/runner/Windows-Form-Page/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/Windows-Form-Page/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Windows-Form-Page/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/Windows-Form-Page/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/Windows-Form-Page/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
